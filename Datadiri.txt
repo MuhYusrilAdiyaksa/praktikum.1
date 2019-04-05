@@ -4,3 +4,6 @@ Kelas : Tekom A
 Angkatan : 2018
 
 Nama Mata Kuliah : Struktur Data
+Prodi Teknik Komputer 
+Fakultas Teknik
+Universitas Negeri Makassar
